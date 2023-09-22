@@ -1,0 +1,18 @@
+body{
+    background: yellowgreen;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.design{
+    background: black;
+    color: gold;
+    border-radius: 10px;
+    width: 100px;
+    padding-left: 10px;
+    height: 30px;
+
+}
